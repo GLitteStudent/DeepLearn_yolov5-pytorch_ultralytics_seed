@@ -1,0 +1,2 @@
+/Users/yuyu/Desktop/水稻数据/DeepLearn_yolov5-pytorch_ultralytics_seed/seed_dir/seed_one
+/Users/yuyu/Desktop/水稻数据/DeepLearn_yolov5-pytorch_ultralytics_seed/seed_dir/seed_two
